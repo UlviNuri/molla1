@@ -1,0 +1,10 @@
+@import "home/home";
+@import "varaible";
+@import "mixnin";
+
+*,*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: none;
+}
